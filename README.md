@@ -35,6 +35,12 @@ This template captures the modern, professional design of Broadleaf Commerce wit
 - **Mobile Menu**: Responsive navigation
 - **Tab Functionality**: Dynamic content switching
 
+
+![Demo](image.jpg)
+
+[Broadleaf Commerce Template - Analysis Report](Broadleaf-Commerce-Template-Analysis-Report.md).
+
+
 ## Installation
 
 ### Prerequisites
